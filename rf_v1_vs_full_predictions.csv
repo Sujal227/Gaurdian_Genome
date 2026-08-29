@@ -1,0 +1,1641 @@
+Patient_ID,Visit_Number,Drug_Label,Actual_Drug,V1_Predicted_Label,V1_Predicted_Drug,Full_Predicted_Label,Full_Predicted_Drug
+PGX-0009,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-0013,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-0018,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-0018,2,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-0020,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-0024,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-0024,2,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-0027,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-0030,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-0034,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-0034,2,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-0044,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-0046,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-0048,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-0052,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-0062,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-0066,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-0066,2,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-0069,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-0069,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-0070,1,11,Metoprolol,9,Metformin + Glipizide,1,Abacavir + Lamivudine
+PGX-0070,2,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-0071,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-0071,2,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-0080,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-0080,2,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-0081,1,8,Metformin,8,Metformin,8,Metformin
+PGX-0085,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-0085,2,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-0089,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-0091,1,8,Metformin,8,Metformin,8,Metformin
+PGX-0091,2,8,Metformin,8,Metformin,8,Metformin
+PGX-0091,3,8,Metformin,8,Metformin,8,Metformin
+PGX-0094,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-0096,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-0096,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-0097,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-0101,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-0101,2,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-0107,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-0107,2,10,Methotrexate,3,Azathioprine,10,Methotrexate
+PGX-0107,3,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-0110,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-0110,2,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-0121,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-0123,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-0123,2,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-0123,3,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),3,Azathioprine
+PGX-0133,1,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-0133,2,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-0133,3,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-0135,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-0136,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-0140,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-0145,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-0150,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-0151,1,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-0152,1,11,Metoprolol,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-0158,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-0158,2,6,Insulin (short-acting),9,Metformin + Glipizide,6,Insulin (short-acting)
+PGX-0169,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-0169,2,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-0176,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-0176,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-0176,3,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-0178,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-0180,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-0180,2,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-0185,1,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-0185,2,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-0185,3,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-0193,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-0196,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-0196,2,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-0197,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-0197,2,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-0200,1,1,Abacavir + Lamivudine,0,5-Fluorouracil (5-FU),3,Azathioprine
+PGX-0204,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-0211,1,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-0215,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-0219,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-0220,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-0220,2,6,Insulin (short-acting),9,Metformin + Glipizide,6,Insulin (short-acting)
+PGX-0220,3,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-0222,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-0228,1,9,Metformin + Glipizide,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-0229,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-0231,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-0234,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-0239,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-0239,2,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-0239,3,14,Rosuvastatin,16,Simvastatin,14,Rosuvastatin
+PGX-0240,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-0240,2,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-0241,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-0241,2,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-0249,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-0249,2,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-0249,3,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-0252,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-0252,2,6,Insulin (short-acting),9,Metformin + Glipizide,6,Insulin (short-acting)
+PGX-0253,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-0255,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-0255,2,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-0275,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-0275,2,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-0280,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-0284,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-0284,2,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-0288,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-0291,1,13,Pravastatin,13,Pravastatin,13,Pravastatin
+PGX-0291,2,13,Pravastatin,13,Pravastatin,13,Pravastatin
+PGX-0292,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-0297,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-0298,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-0299,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-0309,1,17,Tenofovir + Emtricitabine,17,Tenofovir + Emtricitabine,17,Tenofovir + Emtricitabine
+PGX-0316,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-0316,2,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-0319,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-0323,1,14,Rosuvastatin,13,Pravastatin,13,Pravastatin
+PGX-0323,2,14,Rosuvastatin,14,Rosuvastatin,13,Pravastatin
+PGX-0323,3,14,Rosuvastatin,13,Pravastatin,13,Pravastatin
+PGX-0334,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-0334,2,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-0351,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-0351,2,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-0351,3,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-0352,1,8,Metformin,8,Metformin,8,Metformin
+PGX-0352,2,8,Metformin,8,Metformin,8,Metformin
+PGX-0355,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-0355,2,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-0367,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-0368,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-0368,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-0368,3,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-0372,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-0374,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-0374,2,4,Capecitabine,0,5-Fluorouracil (5-FU),4,Capecitabine
+PGX-0377,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-0377,2,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-0379,1,2,Amlodipine,2,Amlodipine,2,Amlodipine
+PGX-0388,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-0394,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-0411,1,13,Pravastatin,13,Pravastatin,13,Pravastatin
+PGX-0411,2,13,Pravastatin,11,Metoprolol,11,Metoprolol
+PGX-0415,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-0416,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-0416,2,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-0417,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-0423,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-0427,1,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-0430,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-0430,2,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-0430,3,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-0439,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-0444,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-0444,2,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-0451,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-0451,2,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-0458,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-0458,2,4,Capecitabine,0,5-Fluorouracil (5-FU),4,Capecitabine
+PGX-0458,3,7,Irinotecan,0,5-Fluorouracil (5-FU),4,Capecitabine
+PGX-0464,1,4,Capecitabine,4,Capecitabine,4,Capecitabine
+PGX-0464,2,4,Capecitabine,4,Capecitabine,4,Capecitabine
+PGX-0464,3,4,Capecitabine,4,Capecitabine,4,Capecitabine
+PGX-0466,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-0466,2,14,Rosuvastatin,16,Simvastatin,14,Rosuvastatin
+PGX-0466,3,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-0469,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-0472,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-0472,2,17,Tenofovir + Emtricitabine,1,Abacavir + Lamivudine,17,Tenofovir + Emtricitabine
+PGX-0473,1,0,5-Fluorouracil (5-FU),9,Metformin + Glipizide,16,Simvastatin
+PGX-0479,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-0486,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-0486,2,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-0486,3,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-0487,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-0487,2,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-0492,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-0492,2,5,Escitalopram,15,Sertraline,5,Escitalopram
+PGX-0498,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-0502,1,8,Metformin,8,Metformin,8,Metformin
+PGX-0506,1,14,Rosuvastatin,14,Rosuvastatin,14,Rosuvastatin
+PGX-0512,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-0512,2,4,Capecitabine,0,5-Fluorouracil (5-FU),4,Capecitabine
+PGX-0518,1,13,Pravastatin,9,Metformin + Glipizide,14,Rosuvastatin
+PGX-0528,1,16,Simvastatin,11,Metoprolol,8,Metformin
+PGX-0528,2,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-0531,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-0534,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-0534,2,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-0535,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-0535,2,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-0535,3,2,Amlodipine,11,Metoprolol,2,Amlodipine
+PGX-0539,1,16,Simvastatin,9,Metformin + Glipizide,0,5-Fluorouracil (5-FU)
+PGX-0539,2,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-0545,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-0545,2,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-0550,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-0550,2,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-0550,3,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-0554,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-0556,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-0556,2,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-0562,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-0567,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-0567,2,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-0567,3,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-0568,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-0569,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-0569,2,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-0569,3,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-0578,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-0578,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-0578,3,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-0583,1,8,Metformin,8,Metformin,8,Metformin
+PGX-0583,2,8,Metformin,8,Metformin,8,Metformin
+PGX-0585,1,2,Amlodipine,2,Amlodipine,2,Amlodipine
+PGX-0585,2,2,Amlodipine,2,Amlodipine,2,Amlodipine
+PGX-0585,3,2,Amlodipine,2,Amlodipine,2,Amlodipine
+PGX-0587,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-0587,2,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-0587,3,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-0590,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-0590,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-0595,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-0595,2,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-0597,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-0599,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-0600,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-0603,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-0603,2,2,Amlodipine,11,Metoprolol,2,Amlodipine
+PGX-0603,3,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-0606,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-0606,2,17,Tenofovir + Emtricitabine,1,Abacavir + Lamivudine,17,Tenofovir + Emtricitabine
+PGX-0606,3,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-0622,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-0625,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-0626,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-0627,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-0627,2,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-0627,3,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-0634,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-0643,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-0643,2,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-0645,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-0645,2,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-0654,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-0654,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-0656,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-0658,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-0669,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-0671,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-0677,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-0677,2,0,5-Fluorouracil (5-FU),9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-0678,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-0682,1,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-0684,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-0692,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-0692,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-0692,3,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-0694,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-0706,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-0712,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-0712,2,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-0719,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-0721,1,17,Tenofovir + Emtricitabine,17,Tenofovir + Emtricitabine,17,Tenofovir + Emtricitabine
+PGX-0721,2,17,Tenofovir + Emtricitabine,17,Tenofovir + Emtricitabine,17,Tenofovir + Emtricitabine
+PGX-0721,3,17,Tenofovir + Emtricitabine,17,Tenofovir + Emtricitabine,17,Tenofovir + Emtricitabine
+PGX-0722,1,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-0722,2,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-0725,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-0732,1,13,Pravastatin,13,Pravastatin,13,Pravastatin
+PGX-0732,2,14,Rosuvastatin,13,Pravastatin,13,Pravastatin
+PGX-0734,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-0734,2,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-0734,3,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-0735,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-0743,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-0747,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-0752,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-0752,2,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-0757,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-0757,2,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-0760,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-0764,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-0764,2,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-0765,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-0766,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-0777,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-0777,2,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-0777,3,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-0788,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-0788,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-0795,1,15,Sertraline,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-0799,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-0803,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-0804,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-0804,2,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-0804,3,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-0806,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-0808,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-0808,2,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-0811,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-0811,2,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-0812,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-0812,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-0813,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-0813,2,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-0829,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-0829,2,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-0830,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-0832,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-0834,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-0834,2,6,Insulin (short-acting),9,Metformin + Glipizide,6,Insulin (short-acting)
+PGX-0839,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-0839,2,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-0842,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-0843,1,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-0843,2,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-0843,3,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-0857,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-0860,1,13,Pravastatin,13,Pravastatin,13,Pravastatin
+PGX-0878,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-0878,2,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-0878,3,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-0880,1,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-0882,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-0882,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-0882,3,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-0888,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-0890,1,8,Metformin,8,Metformin,8,Metformin
+PGX-0890,2,8,Metformin,8,Metformin,8,Metformin
+PGX-0890,3,8,Metformin,8,Metformin,8,Metformin
+PGX-0894,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-0894,2,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-0897,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-0908,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-0908,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-0912,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-0916,1,8,Metformin,8,Metformin,8,Metformin
+PGX-0916,2,8,Metformin,8,Metformin,8,Metformin
+PGX-0927,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-0928,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-0932,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-0932,2,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-0945,1,8,Metformin,8,Metformin,8,Metformin
+PGX-0950,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-0950,2,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-0950,3,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-0953,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-0965,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-0965,2,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-0970,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-0978,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-0978,2,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-0995,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-0997,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-0997,2,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-0997,3,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-1000,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-1002,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-1002,2,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-1011,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-1011,2,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-1019,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-1021,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-1026,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-1030,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-1030,2,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-1033,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-1035,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-1039,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-1042,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-1045,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-1048,1,1,Abacavir + Lamivudine,9,Metformin + Glipizide,14,Rosuvastatin
+PGX-1050,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-1053,1,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-1056,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-1057,1,13,Pravastatin,13,Pravastatin,13,Pravastatin
+PGX-1058,1,9,Metformin + Glipizide,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-1058,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-1058,3,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-1074,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-1074,2,6,Insulin (short-acting),9,Metformin + Glipizide,6,Insulin (short-acting)
+PGX-1074,3,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-1075,1,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-1076,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-1076,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-1076,3,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-1085,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-1091,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-1095,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-1095,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-1095,3,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-1096,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-1096,2,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-1097,1,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-1102,1,2,Amlodipine,11,Metoprolol,11,Metoprolol
+PGX-1104,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-1104,2,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-1109,1,8,Metformin,8,Metformin,8,Metformin
+PGX-1116,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-1116,2,4,Capecitabine,0,5-Fluorouracil (5-FU),4,Capecitabine
+PGX-1118,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-1118,2,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-1127,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-1129,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-1136,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-1145,1,14,Rosuvastatin,14,Rosuvastatin,14,Rosuvastatin
+PGX-1145,2,14,Rosuvastatin,13,Pravastatin,13,Pravastatin
+PGX-1150,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-1159,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-1159,2,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-1159,3,2,Amlodipine,11,Metoprolol,2,Amlodipine
+PGX-1169,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-1171,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-1174,1,5,Escitalopram,5,Escitalopram,5,Escitalopram
+PGX-1174,2,5,Escitalopram,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-1175,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-1176,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-1176,2,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-1184,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-1184,2,5,Escitalopram,15,Sertraline,5,Escitalopram
+PGX-1188,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-1188,2,5,Escitalopram,15,Sertraline,5,Escitalopram
+PGX-1193,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-1198,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-1201,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-1201,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-1205,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-1205,2,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-1210,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-1211,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-1211,2,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-1213,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-1213,2,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-1232,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-1236,1,17,Tenofovir + Emtricitabine,17,Tenofovir + Emtricitabine,17,Tenofovir + Emtricitabine
+PGX-1243,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-1245,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-1245,2,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-1256,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-1256,2,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-1259,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-1261,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-1261,2,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-1261,3,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-1262,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-1269,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-1269,2,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-1273,1,15,Sertraline,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-1282,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-1282,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-1293,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-1293,2,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-1294,1,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-1294,2,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-1294,3,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-1296,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-1296,2,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-1306,1,4,Capecitabine,9,Metformin + Glipizide,0,5-Fluorouracil (5-FU)
+PGX-1306,2,4,Capecitabine,4,Capecitabine,4,Capecitabine
+PGX-1322,1,16,Simvastatin,11,Metoprolol,0,5-Fluorouracil (5-FU)
+PGX-1323,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-1323,2,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-1324,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-1324,2,4,Capecitabine,0,5-Fluorouracil (5-FU),4,Capecitabine
+PGX-1331,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-1336,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-1336,2,2,Amlodipine,11,Metoprolol,2,Amlodipine
+PGX-1336,3,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-1339,1,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-1339,2,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-1341,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-1341,2,5,Escitalopram,15,Sertraline,5,Escitalopram
+PGX-1341,3,15,Sertraline,15,Sertraline,5,Escitalopram
+PGX-1345,1,4,Capecitabine,4,Capecitabine,4,Capecitabine
+PGX-1345,2,4,Capecitabine,4,Capecitabine,4,Capecitabine
+PGX-1346,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-1346,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-1346,3,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-1352,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-1361,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-1363,1,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-1371,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-1372,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-1376,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-1376,2,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-1376,3,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-1392,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-1392,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-1392,3,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-1393,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-1393,2,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-1393,3,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-1398,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-1398,2,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-1398,3,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-1406,1,13,Pravastatin,14,Rosuvastatin,14,Rosuvastatin
+PGX-1406,2,14,Rosuvastatin,14,Rosuvastatin,13,Pravastatin
+PGX-1407,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-1407,2,6,Insulin (short-acting),9,Metformin + Glipizide,6,Insulin (short-acting)
+PGX-1407,3,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-1413,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-1414,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-1418,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-1418,2,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-1420,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-1421,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-1425,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-1426,1,8,Metformin,8,Metformin,8,Metformin
+PGX-1426,2,8,Metformin,8,Metformin,8,Metformin
+PGX-1433,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-1434,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-1434,2,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-1435,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-1437,1,9,Metformin + Glipizide,9,Metformin + Glipizide,0,5-Fluorouracil (5-FU)
+PGX-1438,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-1452,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-1457,1,2,Amlodipine,2,Amlodipine,2,Amlodipine
+PGX-1484,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-1486,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-1488,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-1488,2,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-1490,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-1490,2,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-1492,1,8,Metformin,8,Metformin,8,Metformin
+PGX-1492,2,8,Metformin,8,Metformin,8,Metformin
+PGX-1500,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-1502,1,5,Escitalopram,5,Escitalopram,5,Escitalopram
+PGX-1504,1,8,Metformin,8,Metformin,8,Metformin
+PGX-1505,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-1506,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-1506,2,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-1506,3,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-1508,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-1508,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-1514,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-1535,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-1537,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-1540,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-1542,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-1542,2,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-1544,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-1544,2,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-1551,1,11,Metoprolol,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-1551,2,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-1554,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-1554,2,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-1558,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-1558,2,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-1558,3,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-1559,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-1570,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-1579,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-1579,2,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-1584,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-1584,2,5,Escitalopram,15,Sertraline,5,Escitalopram
+PGX-1589,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-1590,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-1590,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-1591,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-1591,2,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-1593,1,14,Rosuvastatin,13,Pravastatin,13,Pravastatin
+PGX-1601,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-1601,2,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-1601,3,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-1607,1,14,Rosuvastatin,14,Rosuvastatin,14,Rosuvastatin
+PGX-1607,2,13,Pravastatin,13,Pravastatin,13,Pravastatin
+PGX-1607,3,13,Pravastatin,13,Pravastatin,13,Pravastatin
+PGX-1613,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-1613,2,17,Tenofovir + Emtricitabine,1,Abacavir + Lamivudine,17,Tenofovir + Emtricitabine
+PGX-1616,1,8,Metformin,8,Metformin,8,Metformin
+PGX-1616,2,8,Metformin,8,Metformin,8,Metformin
+PGX-1618,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-1618,2,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-1619,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-1619,2,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-1621,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-1621,2,4,Capecitabine,0,5-Fluorouracil (5-FU),4,Capecitabine
+PGX-1621,3,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-1630,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-1633,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-1633,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-1633,3,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-1635,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-1648,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-1651,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-1651,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-1653,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-1655,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-1655,2,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-1655,3,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-1663,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-1670,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-1670,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-1670,3,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-1671,1,13,Pravastatin,13,Pravastatin,13,Pravastatin
+PGX-1671,2,13,Pravastatin,13,Pravastatin,13,Pravastatin
+PGX-1676,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-1695,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-1695,2,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-1700,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-1719,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-1722,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-1722,2,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-1722,3,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-1724,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-1724,2,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-1740,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-1740,2,10,Methotrexate,3,Azathioprine,10,Methotrexate
+PGX-1740,3,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-1742,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-1742,2,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-1742,3,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-1745,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-1747,1,5,Escitalopram,5,Escitalopram,5,Escitalopram
+PGX-1747,2,5,Escitalopram,5,Escitalopram,5,Escitalopram
+PGX-1748,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-1756,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-1756,2,11,Metoprolol,11,Metoprolol,14,Rosuvastatin
+PGX-1757,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-1783,1,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-1787,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-1787,2,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-1804,1,14,Rosuvastatin,13,Pravastatin,13,Pravastatin
+PGX-1804,2,13,Pravastatin,16,Simvastatin,16,Simvastatin
+PGX-1808,1,14,Rosuvastatin,16,Simvastatin,16,Simvastatin
+PGX-1808,2,13,Pravastatin,13,Pravastatin,13,Pravastatin
+PGX-1808,3,13,Pravastatin,13,Pravastatin,13,Pravastatin
+PGX-1816,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-1816,2,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-1832,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-1833,1,4,Capecitabine,4,Capecitabine,4,Capecitabine
+PGX-1834,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-1834,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-1861,1,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-1868,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-1868,2,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-1870,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-1871,1,4,Capecitabine,4,Capecitabine,4,Capecitabine
+PGX-1872,1,13,Pravastatin,16,Simvastatin,16,Simvastatin
+PGX-1873,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-1873,2,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-1873,3,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-1875,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-1875,2,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-1877,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-1887,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-1887,2,0,5-Fluorouracil (5-FU),8,Metformin,8,Metformin
+PGX-1908,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-1910,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-1910,2,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-1922,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-1927,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-1927,2,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-1927,3,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-1935,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-1935,2,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-1935,3,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-1942,1,4,Capecitabine,4,Capecitabine,4,Capecitabine
+PGX-1942,2,4,Capecitabine,4,Capecitabine,4,Capecitabine
+PGX-1946,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-1946,2,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-1947,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-1955,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-1962,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-1963,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-1966,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-1973,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-1973,2,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-1974,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-1984,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-1984,2,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-1989,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-2005,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-2005,2,11,Metoprolol,11,Metoprolol,14,Rosuvastatin
+PGX-2012,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-2017,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-2017,2,6,Insulin (short-acting),9,Metformin + Glipizide,6,Insulin (short-acting)
+PGX-2017,3,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-2019,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-2030,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-2032,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-2032,2,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-2053,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-2054,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-2054,2,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-2060,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-2060,2,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-2068,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-2068,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-2078,1,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-2079,1,14,Rosuvastatin,13,Pravastatin,14,Rosuvastatin
+PGX-2079,2,14,Rosuvastatin,13,Pravastatin,13,Pravastatin
+PGX-2079,3,13,Pravastatin,13,Pravastatin,13,Pravastatin
+PGX-2094,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-2095,1,16,Simvastatin,9,Metformin + Glipizide,11,Metoprolol
+PGX-2100,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-2101,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-2105,1,8,Metformin,8,Metformin,8,Metformin
+PGX-2108,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-2111,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-2112,1,2,Amlodipine,2,Amlodipine,2,Amlodipine
+PGX-2118,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-2118,2,17,Tenofovir + Emtricitabine,1,Abacavir + Lamivudine,17,Tenofovir + Emtricitabine
+PGX-2118,3,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-2119,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-2120,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-2120,2,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,16,Simvastatin
+PGX-2122,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-2124,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-2124,2,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-2125,1,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-2125,2,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-2132,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-2139,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-2139,2,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-2147,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-2147,2,4,Capecitabine,0,5-Fluorouracil (5-FU),4,Capecitabine
+PGX-2147,3,7,Irinotecan,0,5-Fluorouracil (5-FU),4,Capecitabine
+PGX-2165,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-2168,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-2171,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-2174,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-2174,2,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-2179,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-2179,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-2182,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-2182,2,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-2188,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-2188,2,16,Simvastatin,0,5-Fluorouracil (5-FU),2,Amlodipine
+PGX-2195,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-2195,2,2,Amlodipine,11,Metoprolol,2,Amlodipine
+PGX-2196,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-2196,2,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-2216,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-2216,2,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-2218,1,14,Rosuvastatin,13,Pravastatin,13,Pravastatin
+PGX-2218,2,14,Rosuvastatin,13,Pravastatin,13,Pravastatin
+PGX-2218,3,14,Rosuvastatin,13,Pravastatin,13,Pravastatin
+PGX-2221,1,8,Metformin,8,Metformin,8,Metformin
+PGX-2221,2,8,Metformin,8,Metformin,8,Metformin
+PGX-2221,3,8,Metformin,8,Metformin,8,Metformin
+PGX-2222,1,7,Irinotecan,7,Irinotecan,7,Irinotecan
+PGX-2222,2,7,Irinotecan,7,Irinotecan,7,Irinotecan
+PGX-2224,1,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-2226,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-2226,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-2229,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-2230,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-2230,2,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-2230,3,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-2233,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-2233,2,5,Escitalopram,15,Sertraline,5,Escitalopram
+PGX-2237,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-2241,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-2255,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-2255,2,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-2276,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-2277,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-2277,2,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-2281,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-2281,2,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-2285,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-2285,2,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-2293,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-2293,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-2293,3,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-2296,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-2296,2,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-2298,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-2299,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-2306,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-2308,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-2310,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-2313,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-2314,1,14,Rosuvastatin,13,Pravastatin,13,Pravastatin
+PGX-2314,2,13,Pravastatin,13,Pravastatin,13,Pravastatin
+PGX-2318,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-2318,2,2,Amlodipine,11,Metoprolol,2,Amlodipine
+PGX-2318,3,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-2324,1,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-2324,2,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-2329,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-2330,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-2330,2,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-2331,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-2331,2,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-2340,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-2340,2,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-2340,3,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-2348,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-2352,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-2352,2,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-2358,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-2371,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-2371,2,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-2373,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-2373,2,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-2375,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-2375,2,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-2378,1,14,Rosuvastatin,13,Pravastatin,13,Pravastatin
+PGX-2406,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-2414,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-2415,1,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-2415,2,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-2415,3,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-2417,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-2418,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-2418,2,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-2419,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-2419,2,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-2419,3,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-2424,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-2424,2,5,Escitalopram,15,Sertraline,5,Escitalopram
+PGX-2424,3,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-2451,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-2451,2,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-2452,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-2452,2,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-2452,3,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-2457,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-2461,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-2463,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-2463,2,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-2464,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-2464,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-2464,3,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-2465,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-2465,2,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-2465,3,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-2469,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-2469,2,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-2481,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-2484,1,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-2499,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-2506,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-2510,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-2516,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-2516,2,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-2516,3,10,Methotrexate,3,Azathioprine,10,Methotrexate
+PGX-2520,1,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-2520,2,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-2522,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-2522,2,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-2522,3,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-2526,1,5,Escitalopram,5,Escitalopram,5,Escitalopram
+PGX-2526,2,5,Escitalopram,5,Escitalopram,5,Escitalopram
+PGX-2527,1,2,Amlodipine,2,Amlodipine,2,Amlodipine
+PGX-2528,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-2532,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-2537,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-2560,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-2560,2,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-2562,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-2571,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-2576,1,8,Metformin,8,Metformin,8,Metformin
+PGX-2585,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-2587,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-2595,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-2603,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-2606,1,2,Amlodipine,2,Amlodipine,2,Amlodipine
+PGX-2606,2,2,Amlodipine,11,Metoprolol,11,Metoprolol
+PGX-2610,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-2610,2,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-2615,1,2,Amlodipine,2,Amlodipine,2,Amlodipine
+PGX-2624,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-2634,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-2634,2,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-2643,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-2643,2,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-2649,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-2651,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-2654,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-2655,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-2660,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-2660,2,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-2663,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-2665,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-2670,1,2,Amlodipine,2,Amlodipine,2,Amlodipine
+PGX-2673,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-2673,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-2681,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-2684,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-2686,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-2686,2,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-2687,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-2689,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-2689,2,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-2690,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-2697,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-2703,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-2703,2,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-2708,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-2711,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-2722,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-2722,2,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-2723,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-2723,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-2723,3,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-2728,1,8,Metformin,8,Metformin,8,Metformin
+PGX-2728,2,8,Metformin,8,Metformin,8,Metformin
+PGX-2733,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-2747,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-2747,2,6,Insulin (short-acting),9,Metformin + Glipizide,6,Insulin (short-acting)
+PGX-2750,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-2750,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-2750,3,6,Insulin (short-acting),9,Metformin + Glipizide,6,Insulin (short-acting)
+PGX-2751,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-2751,2,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-2754,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-2755,1,5,Escitalopram,5,Escitalopram,5,Escitalopram
+PGX-2755,2,5,Escitalopram,5,Escitalopram,5,Escitalopram
+PGX-2759,1,14,Rosuvastatin,13,Pravastatin,13,Pravastatin
+PGX-2759,2,14,Rosuvastatin,13,Pravastatin,13,Pravastatin
+PGX-2759,3,13,Pravastatin,13,Pravastatin,13,Pravastatin
+PGX-2764,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-2768,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-2776,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-2779,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-2779,2,10,Methotrexate,3,Azathioprine,10,Methotrexate
+PGX-2779,3,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-2793,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-2793,2,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-2795,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-2795,2,10,Methotrexate,3,Azathioprine,10,Methotrexate
+PGX-2797,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-2802,1,1,Abacavir + Lamivudine,11,Metoprolol,14,Rosuvastatin
+PGX-2805,1,2,Amlodipine,11,Metoprolol,11,Metoprolol
+PGX-2806,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-2806,2,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-2810,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-2818,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-2820,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-2820,2,18,Warfarin,0,5-Fluorouracil (5-FU),14,Rosuvastatin
+PGX-2820,3,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-2827,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-2830,1,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-2837,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-2844,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-2846,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-2846,2,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-2847,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-2848,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-2861,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-2877,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-2883,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-2887,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-2888,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-2891,1,4,Capecitabine,4,Capecitabine,4,Capecitabine
+PGX-2894,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-2895,1,13,Pravastatin,13,Pravastatin,13,Pravastatin
+PGX-2895,2,13,Pravastatin,13,Pravastatin,14,Rosuvastatin
+PGX-2906,1,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-2908,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-2908,2,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-2908,3,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-2923,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-2923,2,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-2923,3,2,Amlodipine,11,Metoprolol,2,Amlodipine
+PGX-2925,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-2925,2,4,Capecitabine,0,5-Fluorouracil (5-FU),4,Capecitabine
+PGX-2926,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-2930,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-2933,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-2933,2,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-2935,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-2940,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-2940,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-2941,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-2949,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-2958,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-2958,2,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-2958,3,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-2963,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-2963,2,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-2965,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-2975,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-2985,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-2985,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-2998,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-3002,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-3002,2,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-3002,3,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-3003,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-3007,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-3007,2,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-3007,3,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-3009,1,11,Metoprolol,16,Simvastatin,11,Metoprolol
+PGX-3019,1,2,Amlodipine,2,Amlodipine,2,Amlodipine
+PGX-3022,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-3023,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-3023,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-3025,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-3025,2,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-3027,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-3037,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-3037,2,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-3040,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-3040,2,3,Azathioprine,3,Azathioprine,5,Escitalopram
+PGX-3041,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-3041,2,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-3041,3,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-3044,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-3044,2,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-3044,3,17,Tenofovir + Emtricitabine,1,Abacavir + Lamivudine,17,Tenofovir + Emtricitabine
+PGX-3045,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-3045,2,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-3050,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-3050,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-3054,1,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-3054,2,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-3054,3,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-3065,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-3067,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-3067,2,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-3079,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-3079,2,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-3079,3,4,Capecitabine,0,5-Fluorouracil (5-FU),4,Capecitabine
+PGX-3086,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-3096,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-3096,2,17,Tenofovir + Emtricitabine,1,Abacavir + Lamivudine,17,Tenofovir + Emtricitabine
+PGX-3096,3,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-3099,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-3104,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-3107,1,13,Pravastatin,14,Rosuvastatin,14,Rosuvastatin
+PGX-3108,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-3110,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-3110,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-3115,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-3117,1,13,Pravastatin,14,Rosuvastatin,14,Rosuvastatin
+PGX-3136,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-3136,2,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-3138,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-3143,1,13,Pravastatin,14,Rosuvastatin,14,Rosuvastatin
+PGX-3144,1,18,Warfarin,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-3144,2,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-3144,3,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-3146,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-3146,2,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-3146,3,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-3149,1,15,Sertraline,9,Metformin + Glipizide,0,5-Fluorouracil (5-FU)
+PGX-3151,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-3151,2,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-3151,3,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-3162,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-3166,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-3166,2,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-3182,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-3182,2,6,Insulin (short-acting),9,Metformin + Glipizide,6,Insulin (short-acting)
+PGX-3182,3,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-3185,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-3186,1,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-3193,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-3193,2,14,Rosuvastatin,16,Simvastatin,14,Rosuvastatin
+PGX-3198,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-3198,2,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-3215,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-3221,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-3221,2,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-3221,3,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-3226,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-3226,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-3226,3,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-3227,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-3227,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-3227,3,6,Insulin (short-acting),9,Metformin + Glipizide,6,Insulin (short-acting)
+PGX-3228,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-3228,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-3231,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-3236,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-3239,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-3241,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-3246,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-3246,2,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-3248,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-3248,2,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-3249,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-3251,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-3251,2,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-3251,3,14,Rosuvastatin,16,Simvastatin,14,Rosuvastatin
+PGX-3254,1,8,Metformin,8,Metformin,8,Metformin
+PGX-3255,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-3257,1,13,Pravastatin,13,Pravastatin,13,Pravastatin
+PGX-3260,1,8,Metformin,8,Metformin,8,Metformin
+PGX-3264,1,5,Escitalopram,5,Escitalopram,5,Escitalopram
+PGX-3269,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-3269,2,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-3270,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-3270,2,4,Capecitabine,0,5-Fluorouracil (5-FU),4,Capecitabine
+PGX-3271,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-3271,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-3275,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-3277,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-3287,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-3289,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-3290,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-3296,1,9,Metformin + Glipizide,9,Metformin + Glipizide,16,Simvastatin
+PGX-3317,1,13,Pravastatin,14,Rosuvastatin,14,Rosuvastatin
+PGX-3322,1,8,Metformin,8,Metformin,8,Metformin
+PGX-3322,2,8,Metformin,8,Metformin,8,Metformin
+PGX-3322,3,8,Metformin,8,Metformin,8,Metformin
+PGX-3332,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-3332,2,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-3334,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-3339,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-3341,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-3348,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-3348,2,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-3348,3,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-3351,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-3352,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-3354,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-3361,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-3376,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-3380,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-3380,2,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-3383,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-3393,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-3394,1,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-3394,2,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-3401,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-3401,2,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-3401,3,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-3410,1,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-3419,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-3426,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-3430,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-3430,2,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-3434,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-3434,2,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-3434,3,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-3440,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-3440,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-3457,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-3461,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-3461,2,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-3461,3,14,Rosuvastatin,16,Simvastatin,14,Rosuvastatin
+PGX-3465,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-3479,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-3479,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-3486,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-3486,2,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-3497,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-3502,1,4,Capecitabine,4,Capecitabine,4,Capecitabine
+PGX-3505,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-3505,2,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-3505,3,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-3519,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-3519,2,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-3519,3,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-3524,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-3526,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-3526,2,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-3527,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-3527,2,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-3527,3,17,Tenofovir + Emtricitabine,1,Abacavir + Lamivudine,17,Tenofovir + Emtricitabine
+PGX-3536,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-3536,2,0,5-Fluorouracil (5-FU),16,Simvastatin,16,Simvastatin
+PGX-3538,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-3544,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-3546,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-3546,2,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-3546,3,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-3551,1,10,Methotrexate,10,Methotrexate,10,Methotrexate
+PGX-3551,2,10,Methotrexate,10,Methotrexate,10,Methotrexate
+PGX-3558,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-3558,2,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-3560,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-3560,2,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-3568,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-3571,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-3575,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-3576,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-3581,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-3581,2,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-3581,3,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-3586,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-3587,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-3587,2,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-3592,1,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-3592,2,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-3600,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-3602,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-3602,2,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-3605,1,4,Capecitabine,4,Capecitabine,4,Capecitabine
+PGX-3608,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-3608,2,6,Insulin (short-acting),9,Metformin + Glipizide,6,Insulin (short-acting)
+PGX-3617,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-3617,2,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-3617,3,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-3618,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-3625,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-3626,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-3627,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-3627,2,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-3627,3,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-3631,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-3631,2,4,Capecitabine,0,5-Fluorouracil (5-FU),4,Capecitabine
+PGX-3636,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-3642,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-3642,2,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-3642,3,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-3647,1,13,Pravastatin,13,Pravastatin,13,Pravastatin
+PGX-3652,1,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-3654,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-3655,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-3655,2,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-3662,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-3665,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-3666,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-3669,1,11,Metoprolol,11,Metoprolol,18,Warfarin
+PGX-3671,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-3674,1,0,5-Fluorouracil (5-FU),9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-3674,2,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-3677,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-3683,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-3685,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-3687,1,4,Capecitabine,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-3689,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-3689,2,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-3689,3,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-3693,1,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-3693,2,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-3693,3,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-3699,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-3706,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-3708,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-3708,2,2,Amlodipine,11,Metoprolol,2,Amlodipine
+PGX-3709,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-3717,1,14,Rosuvastatin,14,Rosuvastatin,14,Rosuvastatin
+PGX-3726,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-3726,2,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-3726,3,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-3730,1,13,Pravastatin,14,Rosuvastatin,14,Rosuvastatin
+PGX-3733,1,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-3733,2,12,Phenytoin,9,Metformin + Glipizide,0,5-Fluorouracil (5-FU)
+PGX-3733,3,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-3746,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-3750,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-3751,1,2,Amlodipine,2,Amlodipine,2,Amlodipine
+PGX-3753,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-3755,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-3774,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-3775,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-3779,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-3779,2,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-3780,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-3780,2,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-3790,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-3795,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-3795,2,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-3796,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-3801,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-3801,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-3812,1,4,Capecitabine,4,Capecitabine,4,Capecitabine
+PGX-3812,2,4,Capecitabine,4,Capecitabine,4,Capecitabine
+PGX-3815,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-3815,2,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-3820,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-3820,2,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-3822,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-3822,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-3823,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-3823,2,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-3823,3,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-3826,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-3826,2,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-3829,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-3829,2,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-3829,3,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-3830,1,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-3839,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-3847,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-3847,2,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-3850,1,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-3854,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-3858,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-3858,2,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-3859,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-3859,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-3859,3,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-3861,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-3861,2,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-3863,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-3867,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-3867,2,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-3892,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-3895,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-3895,2,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-3900,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-3900,2,14,Rosuvastatin,16,Simvastatin,14,Rosuvastatin
+PGX-3900,3,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-3902,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-3902,2,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-3907,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-3907,2,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-3908,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-3908,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-3912,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-3913,1,13,Pravastatin,13,Pravastatin,13,Pravastatin
+PGX-3913,2,13,Pravastatin,13,Pravastatin,13,Pravastatin
+PGX-3913,3,13,Pravastatin,13,Pravastatin,13,Pravastatin
+PGX-3919,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-3919,2,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-3922,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-3922,2,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-3923,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-3923,2,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-3928,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-3929,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-3937,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-3937,2,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-3937,3,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-3942,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-3945,1,2,Amlodipine,2,Amlodipine,2,Amlodipine
+PGX-3945,2,2,Amlodipine,2,Amlodipine,2,Amlodipine
+PGX-3945,3,2,Amlodipine,2,Amlodipine,2,Amlodipine
+PGX-3946,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-3956,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-3958,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-3969,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-3969,2,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-3971,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-3974,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-3974,2,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-3974,3,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-3980,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-3987,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-3987,2,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-3989,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-4002,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-4002,2,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-4002,3,2,Amlodipine,11,Metoprolol,2,Amlodipine
+PGX-4006,1,2,Amlodipine,2,Amlodipine,2,Amlodipine
+PGX-4006,2,2,Amlodipine,2,Amlodipine,2,Amlodipine
+PGX-4006,3,2,Amlodipine,2,Amlodipine,2,Amlodipine
+PGX-4012,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-4013,1,5,Escitalopram,5,Escitalopram,5,Escitalopram
+PGX-4024,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-4025,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-4036,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-4039,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-4047,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-4054,1,13,Pravastatin,13,Pravastatin,13,Pravastatin
+PGX-4055,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-4055,2,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-4059,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-4060,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-4063,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-4063,2,2,Amlodipine,11,Metoprolol,2,Amlodipine
+PGX-4067,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-4067,2,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-4075,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-4077,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-4077,2,1,Abacavir + Lamivudine,16,Simvastatin,14,Rosuvastatin
+PGX-4077,3,17,Tenofovir + Emtricitabine,1,Abacavir + Lamivudine,17,Tenofovir + Emtricitabine
+PGX-4078,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-4093,1,8,Metformin,8,Metformin,8,Metformin
+PGX-4094,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-4106,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-4113,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-4113,2,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-4119,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-4121,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-4122,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-4122,2,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-4140,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-4140,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-4140,3,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-4149,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-4153,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-4154,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-4173,1,10,Methotrexate,10,Methotrexate,10,Methotrexate
+PGX-4175,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-4182,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-4182,2,4,Capecitabine,0,5-Fluorouracil (5-FU),4,Capecitabine
+PGX-4184,1,11,Metoprolol,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-4184,2,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-4191,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-4191,2,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-4193,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-4201,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-4201,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-4201,3,6,Insulin (short-acting),9,Metformin + Glipizide,6,Insulin (short-acting)
+PGX-4204,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-4210,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-4211,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-4213,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-4232,1,18,Warfarin,11,Metoprolol,11,Metoprolol
+PGX-4247,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-4247,2,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-4247,3,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-4253,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-4253,2,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-4253,3,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-4254,1,16,Simvastatin,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-4254,2,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-4254,3,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-4255,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-4256,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-4257,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-4257,2,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-4258,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-4259,1,16,Simvastatin,9,Metformin + Glipizide,0,5-Fluorouracil (5-FU)
+PGX-4259,2,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-4260,1,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-4260,2,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-4265,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-4265,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-4282,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-4292,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-4292,2,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-4300,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-4300,2,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-4311,1,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-4316,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-4325,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-4325,2,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-4329,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-4329,2,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-4335,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-4347,1,14,Rosuvastatin,13,Pravastatin,13,Pravastatin
+PGX-4360,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-4360,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-4362,1,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-4362,2,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-4382,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-4382,2,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-4393,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-4396,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-4404,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-4404,2,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-4406,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-4406,2,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-4411,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-4411,2,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-4416,1,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-4425,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-4440,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-4440,2,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-4441,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-4446,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-4446,2,6,Insulin (short-acting),9,Metformin + Glipizide,6,Insulin (short-acting)
+PGX-4454,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-4454,2,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-4454,3,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-4459,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-4464,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-4479,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-4479,2,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-4479,3,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-4480,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-4480,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-4481,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-4481,2,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-4484,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-4488,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-4488,2,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-4488,3,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-4503,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-4505,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-4505,2,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-4507,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-4507,2,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-4507,3,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-4511,1,4,Capecitabine,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-4520,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-4521,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-4525,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-4526,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-4535,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-4535,2,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-4546,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-4560,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-4560,2,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-4562,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-4567,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-4582,1,2,Amlodipine,2,Amlodipine,2,Amlodipine
+PGX-4583,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-4588,1,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-4589,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-4589,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-4596,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-4606,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-4606,2,4,Capecitabine,0,5-Fluorouracil (5-FU),4,Capecitabine
+PGX-4608,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-4614,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-4616,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-4616,2,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-4625,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-4625,2,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-4626,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-4629,1,8,Metformin,8,Metformin,8,Metformin
+PGX-4629,2,8,Metformin,8,Metformin,8,Metformin
+PGX-4636,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-4645,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-4645,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-4648,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-4651,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-4651,2,6,Insulin (short-acting),9,Metformin + Glipizide,6,Insulin (short-acting)
+PGX-4652,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-4652,2,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-4652,3,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-4653,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-4653,2,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-4664,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-4664,2,4,Capecitabine,0,5-Fluorouracil (5-FU),4,Capecitabine
+PGX-4665,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-4665,2,2,Amlodipine,11,Metoprolol,2,Amlodipine
+PGX-4665,3,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-4667,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-4668,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-4674,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-4675,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-4675,2,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-4680,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-4682,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-4682,2,5,Escitalopram,15,Sertraline,5,Escitalopram
+PGX-4682,3,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-4685,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-4685,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-4685,3,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-4687,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-4692,1,0,5-Fluorouracil (5-FU),9,Metformin + Glipizide,15,Sertraline
+PGX-4693,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-4693,2,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-4693,3,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-4702,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-4702,2,14,Rosuvastatin,16,Simvastatin,14,Rosuvastatin
+PGX-4708,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-4712,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-4712,2,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-4712,3,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-4716,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-4720,1,8,Metformin,8,Metformin,8,Metformin
+PGX-4723,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-4723,2,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-4723,3,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-4725,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-4725,2,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-4730,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-4730,2,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-4730,3,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-4735,1,8,Metformin,8,Metformin,8,Metformin
+PGX-4741,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-4741,2,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-4741,3,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-4742,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-4744,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-4750,1,2,Amlodipine,2,Amlodipine,2,Amlodipine
+PGX-4759,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-4759,2,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-4761,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-4768,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-4770,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-4772,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-4773,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-4774,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-4786,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-4798,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-4798,2,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-4801,1,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-4801,2,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-4803,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-4803,2,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-4811,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-4812,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-4817,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-4827,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-4827,2,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-4827,3,4,Capecitabine,0,5-Fluorouracil (5-FU),4,Capecitabine
+PGX-4828,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-4832,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-4839,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-4842,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-4843,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-4846,1,4,Capecitabine,4,Capecitabine,4,Capecitabine
+PGX-4846,2,4,Capecitabine,4,Capecitabine,4,Capecitabine
+PGX-4847,1,11,Metoprolol,9,Metformin + Glipizide,0,5-Fluorouracil (5-FU)
+PGX-4850,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-4859,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-4862,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-4863,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-4863,2,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-4863,3,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-4864,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-4867,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-4871,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-4878,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-4878,2,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-4879,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-4881,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-4886,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-4889,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-4889,2,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-4889,3,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-4893,1,2,Amlodipine,2,Amlodipine,2,Amlodipine
+PGX-4894,1,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-4894,2,6,Insulin (short-acting),9,Metformin + Glipizide,6,Insulin (short-acting)
+PGX-4894,3,9,Metformin + Glipizide,9,Metformin + Glipizide,9,Metformin + Glipizide
+PGX-4899,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-4899,2,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-4903,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-4918,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-4918,2,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-4918,3,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-4919,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-4919,2,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-4919,3,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-4921,1,12,Phenytoin,12,Phenytoin,12,Phenytoin
+PGX-4924,1,13,Pravastatin,13,Pravastatin,13,Pravastatin
+PGX-4924,2,13,Pravastatin,13,Pravastatin,13,Pravastatin
+PGX-4926,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-4926,2,14,Rosuvastatin,16,Simvastatin,14,Rosuvastatin
+PGX-4933,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-4933,2,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-4940,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-4943,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-4943,2,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-4955,1,16,Simvastatin,16,Simvastatin,16,Simvastatin
+PGX-4967,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-4967,2,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-4969,1,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-4969,2,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-4969,3,0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU),0,5-Fluorouracil (5-FU)
+PGX-4976,1,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-4982,1,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-4982,2,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-4982,3,15,Sertraline,15,Sertraline,15,Sertraline
+PGX-4991,1,18,Warfarin,8,Metformin,11,Metoprolol
+PGX-4991,2,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-4991,3,18,Warfarin,18,Warfarin,18,Warfarin
+PGX-4996,1,3,Azathioprine,3,Azathioprine,3,Azathioprine
+PGX-4997,1,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine,1,Abacavir + Lamivudine
+PGX-4999,1,11,Metoprolol,11,Metoprolol,11,Metoprolol
+PGX-4999,2,11,Metoprolol,11,Metoprolol,11,Metoprolol

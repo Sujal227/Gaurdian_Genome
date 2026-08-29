@@ -1,0 +1,64 @@
+{
+  "best_v1_model": "V1_HGB",
+  "best_full_model": "Full_RF",
+  "v1_candidates": [
+    {
+      "model": "V1_HGB",
+      "cv_macro_f1": 0.5887,
+      "test_accuracy": 0.666,
+      "test_f1_macro": 0.6092,
+      "test_f1_weighted": 0.6643
+    },
+    {
+      "model": "V1_RF",
+      "cv_macro_f1": 0.5794,
+      "test_accuracy": 0.653,
+      "test_f1_macro": 0.5789,
+      "test_f1_weighted": 0.6439
+    },
+    {
+      "model": "V1_DT",
+      "cv_macro_f1": NaN,
+      "test_accuracy": 0.654,
+      "test_f1_macro": 0.5728,
+      "test_f1_weighted": 0.6444
+    }
+  ],
+  "full_candidates": [
+    {
+      "model": "Full_RF",
+      "cv_macro_f1": 0.6435,
+      "test_accuracy": 0.6762,
+      "test_f1_macro": 0.6268,
+      "test_f1_weighted": 0.6662
+    },
+    {
+      "model": "Full_HGB",
+      "cv_macro_f1": 0.6388,
+      "test_accuracy": 0.6619,
+      "test_f1_macro": 0.6232,
+      "test_f1_weighted": 0.6602
+    },
+    {
+      "model": "Full_DT",
+      "cv_macro_f1": NaN,
+      "test_accuracy": 0.6631,
+      "test_f1_macro": 0.6176,
+      "test_f1_weighted": 0.6534
+    }
+  ],
+  "return_visit_comparison": {
+    "v1_accuracy": 0.5743,
+    "v1_f1_macro": 0.4702,
+    "full_accuracy": 0.6964,
+    "full_f1_macro": 0.6425,
+    "delta_accuracy": 0.1221,
+    "delta_f1_macro": 0.1723
+  },
+  "patient_split": {
+    "train_patients": 4000,
+    "test_patients": 1000,
+    "patient_overlap": 0
+  },
+  "majority_baseline_accuracy": 0.1425
+}

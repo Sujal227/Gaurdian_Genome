@@ -1,0 +1,39 @@
+Actual,Predicted,Count
+Rosuvastatin,Pravastatin,17
+Pravastatin,Rosuvastatin,8
+Amlodipine,Metoprolol,3
+Abacavir + Lamivudine,Rosuvastatin,3
+Simvastatin,5-Fluorouracil (5-FU),3
+Metoprolol,Metformin + Glipizide,3
+Metformin + Glipizide,5-Fluorouracil (5-FU),3
+Metoprolol,Rosuvastatin,2
+Pravastatin,Simvastatin,2
+Warfarin,Metoprolol,2
+5-Fluorouracil (5-FU),Metformin + Glipizide,2
+5-Fluorouracil (5-FU),Simvastatin,2
+Sertraline,Metformin + Glipizide,2
+Irinotecan,Capecitabine,2
+Capecitabine,5-Fluorouracil (5-FU),2
+5-Fluorouracil (5-FU),Sertraline,1
+5-Fluorouracil (5-FU),Azathioprine,1
+5-Fluorouracil (5-FU),Metformin,1
+Abacavir + Lamivudine,Azathioprine,1
+Capecitabine,Metformin + Glipizide,1
+Escitalopram,Metformin + Glipizide,1
+Azathioprine,Escitalopram,1
+Phenytoin,5-Fluorouracil (5-FU),1
+Metoprolol,Warfarin,1
+Metoprolol,5-Fluorouracil (5-FU),1
+Metoprolol,Abacavir + Lamivudine,1
+Metformin + Glipizide,Simvastatin,1
+Abacavir + Lamivudine,Simvastatin,1
+Pravastatin,Metoprolol,1
+Rosuvastatin,Simvastatin,1
+Sertraline,Escitalopram,1
+Sertraline,5-Fluorouracil (5-FU),1
+Simvastatin,Metformin,1
+Simvastatin,Amlodipine,1
+Simvastatin,Metformin + Glipizide,1
+Simvastatin,Metoprolol,1
+Warfarin,5-Fluorouracil (5-FU),1
+Warfarin,Rosuvastatin,1

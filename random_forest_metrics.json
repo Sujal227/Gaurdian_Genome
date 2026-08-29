@@ -1,0 +1,28 @@
+{
+  "model": "RandomForestClassifier",
+  "random_state": 42,
+  "test_size": 0.2,
+  "training_rows": 6368,
+  "test_rows": 1640,
+  "training_patients": 4000,
+  "test_patients": 1000,
+  "patient_overlap": 0,
+  "num_features": 82,
+  "num_classes": 19,
+  "cv_folds": 5,
+  "cv_macro_f1": 0.9286869327587072,
+  "test_accuracy": 0.9518292682926829,
+  "test_macro_precision": 0.9265260042721908,
+  "test_macro_recall": 0.9015059293372513,
+  "test_macro_f1": 0.9091439636813633,
+  "test_weighted_f1": 0.9516796383676681,
+  "best_parameters": {
+    "n_estimators": 500,
+    "min_samples_split": 2,
+    "min_samples_leaf": 1,
+    "max_features": 0.5,
+    "max_depth": 40,
+    "criterion": "entropy",
+    "class_weight": "balanced_subsample"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "v1_model": "V1_HGB",
+  "full_model": "Full_RF",
+  "selection_metric": "test_macro_f1_after_training-only_CV"
+}

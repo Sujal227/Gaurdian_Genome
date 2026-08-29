@@ -1,0 +1,27 @@
+NEW PATIENT CREATED
+===================
+Patient Name: Shirin
+Username: Shirin199
+Password: Shrin199
+Assigned Doctor ID: 1
+PGX ID: PGX-9960
+---------------------------
+
+NEW PATIENT CREATED
+===================
+Patient Name: Test Patient 001
+Username: testpatient001
+Password: Test@12345
+Assigned Doctor ID: 1
+PGX ID: PGX-4297
+---------------------------
+
+NEW PATIENT CREATED
+===================
+Patient Name: Sanath
+Username: Sanath192
+Password: Sanath192
+Assigned Doctor ID: 1
+PGX ID: PGX-4410
+---------------------------
+

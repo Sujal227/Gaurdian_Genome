@@ -1,0 +1,20 @@
+,5-Fluorouracil (5-FU),Abacavir + Lamivudine,Amlodipine,Azathioprine,Capecitabine,Escitalopram,Insulin (short-acting),Irinotecan,Metformin,Metformin + Glipizide,Methotrexate,Metoprolol,Phenytoin,Pravastatin,Rosuvastatin,Sertraline,Simvastatin,Tenofovir + Emtricitabine,Warfarin
+5-Fluorouracil (5-FU),167,0,0,1,0,0,0,0,1,2,0,0,0,0,0,1,2,0,0
+Abacavir + Lamivudine,0,108,0,1,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0
+Amlodipine,0,0,32,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+Azathioprine,0,0,0,98,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Capecitabine,2,0,0,0,32,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Escitalopram,0,0,0,0,0,18,0,0,0,1,0,0,0,0,0,0,0,0,0
+Insulin (short-acting),0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0
+Irinotecan,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+Metformin,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0
+Metformin + Glipizide,3,0,0,0,0,0,0,0,0,212,0,0,0,0,0,0,1,0,0
+Methotrexate,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0
+Metoprolol,1,1,0,0,0,0,0,0,0,3,0,217,0,0,2,0,0,0,1
+Phenytoin,1,0,0,0,0,0,0,0,0,0,0,0,68,0,0,0,0,0,0
+Pravastatin,0,0,0,0,0,0,0,0,0,0,0,1,0,24,8,0,2,0,0
+Rosuvastatin,0,0,0,0,0,0,0,0,0,0,0,0,0,17,13,0,1,0,0
+Sertraline,1,0,0,0,0,1,0,0,0,2,0,0,0,0,0,146,0,0,0
+Simvastatin,3,0,1,0,0,0,0,0,1,1,0,1,0,0,0,0,162,0,0
+Tenofovir + Emtricitabine,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0
+Warfarin,1,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,185

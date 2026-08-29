@@ -1,0 +1,332 @@
+[
+  {
+    "scenario": "First visit, normal genes",
+    "visit_number": 1,
+    "previous_outcome": "nan",
+    "previous_drug": "None",
+    "true_drug": "Sertraline",
+    "predicted_drug": "Sertraline",
+    "correct": true,
+    "confidence": 0.993,
+    "top_shap": [
+      [
+        "Primary_Condition_Depression",
+        0.3963
+      ],
+      [
+        "CYP2D6_Phenotype_encoded",
+        0.2396
+      ],
+      [
+        "Primary_Condition_Hyperlipidemia",
+        0.0564
+      ],
+      [
+        "Primary_Condition_Colorectal Cancer",
+        0.0455
+      ],
+      [
+        "Primary_Condition_HIV/AIDS",
+        0.043
+      ]
+    ],
+    "explanation": "[Visit 1] This is the patient's first visit \u2014 recommendation is based solely on genomic profile.\nRecommended: <strong>Sertraline</strong> \u2014 standard dosing is appropriate (confidence: 99%)\nGenomic rationale: CYP2D6 Ultrarapid Metabolizer: extremely rapid metabolism.\n\u26a0\ufe0f Alert: Avoid Amitriptyline \u00c2\u0096 Ultrarapid CYP2D6\nHigh confidence \u2014 strong evidence supports this recommendation."
+  },
+  {
+    "scenario": "First visit, normal genes",
+    "visit_number": 1,
+    "previous_outcome": "nan",
+    "previous_drug": "None",
+    "true_drug": "Metformin + Glipizide",
+    "predicted_drug": "Metformin + Glipizide",
+    "correct": true,
+    "confidence": 0.72,
+    "top_shap": [
+      [
+        "Primary_Condition_Type 2 Diabetes",
+        0.1626
+      ],
+      [
+        "Primary_Condition_Colorectal Cancer",
+        0.0562
+      ],
+      [
+        "CYP2C9_Phenotype_encoded",
+        0.0559
+      ],
+      [
+        "Primary_Condition_Hyperlipidemia",
+        0.0519
+      ],
+      [
+        "Primary_Condition_Depression",
+        0.0408
+      ]
+    ],
+    "explanation": "[Visit 1] This is the patient's first visit \u2014 recommendation is based solely on genomic profile.\nRecommended: <strong>Metformin + Glipizide</strong> \u2014 standard dosing is appropriate (confidence: 72%)\nGenomic rationale: CYP2C9 Intermediate Metabolizer: moderately reduced metabolism.\nLower confidence \u2014 additional judgment required."
+  },
+  {
+    "scenario": "First visit, normal genes",
+    "visit_number": 1,
+    "previous_outcome": "nan",
+    "previous_drug": "None",
+    "true_drug": "Warfarin",
+    "predicted_drug": "Warfarin",
+    "correct": true,
+    "confidence": 1.0,
+    "top_shap": [
+      [
+        "Primary_Condition_Atrial Fibrillation",
+        0.8781
+      ],
+      [
+        "Primary_Condition_HIV/AIDS",
+        0.0143
+      ],
+      [
+        "Primary_Condition_Hyperlipidemia",
+        0.0138
+      ],
+      [
+        "Primary_Condition_Colorectal Cancer",
+        0.0096
+      ],
+      [
+        "Primary_Condition_Rheumatoid Arthritis",
+        0.007
+      ]
+    ],
+    "explanation": "[Visit 1] This is the patient's first visit \u2014 recommendation is based solely on genomic profile.\nRecommended: <strong>Warfarin</strong> \u2014 lower-end standard dose is recommended (confidence: 100%)\n\u26a0\ufe0f Alert: Moderate Risk \u00c2\u0096 Routine INR monitoring\nHigh confidence \u2014 strong evidence supports this recommendation."
+  },
+  {
+    "scenario": "Visit 2, prev stable",
+    "visit_number": 2,
+    "previous_outcome": "Stable",
+    "previous_drug": "None",
+    "true_drug": "Metoprolol",
+    "predicted_drug": "Metoprolol",
+    "correct": true,
+    "confidence": 0.995,
+    "top_shap": [
+      [
+        "Primary_Condition_Hypertension",
+        0.3357
+      ],
+      [
+        "CYP2D6_Phenotype_encoded",
+        0.1159
+      ],
+      [
+        "Previous_Outcome_encoded",
+        0.1033
+      ],
+      [
+        "Primary_Condition_Hyperlipidemia",
+        0.0596
+      ],
+      [
+        "Primary_Condition_Colorectal Cancer",
+        0.05
+      ]
+    ],
+    "explanation": "[Visit 2] Previous treatment was Stable \u2014 continuing current regimen.\nRecommended: <strong>Metoprolol</strong> \u2014 standard dosing is appropriate (confidence: 100%)\nGenomic rationale: CYP2D6 Normal Metabolizer: normal metabolism.\nVisit history supported this recommendation (feature: Previous_Outcome_encoded, SHAP=+0.103).\nHigh confidence \u2014 strong evidence supports this recommendation."
+  },
+  {
+    "scenario": "Visit 2, prev stable",
+    "visit_number": 2,
+    "previous_outcome": "Stable",
+    "previous_drug": "None",
+    "true_drug": "Warfarin",
+    "predicted_drug": "Warfarin",
+    "correct": true,
+    "confidence": 1.0,
+    "top_shap": [
+      [
+        "Primary_Condition_Atrial Fibrillation",
+        0.8835
+      ],
+      [
+        "Primary_Condition_HIV/AIDS",
+        0.014
+      ],
+      [
+        "Primary_Condition_Hyperlipidemia",
+        0.0133
+      ],
+      [
+        "Primary_Condition_Colorectal Cancer",
+        0.009
+      ],
+      [
+        "Primary_Condition_Rheumatoid Arthritis",
+        0.0067
+      ]
+    ],
+    "explanation": "[Visit 2] Previous treatment was Stable \u2014 continuing current regimen.\nRecommended: <strong>Warfarin</strong> \u2014 lower-end standard dose is recommended (confidence: 100%)\n\u26a0\ufe0f Alert: Moderate Risk \u00c2\u0096 Routine INR monitoring\nHigh confidence \u2014 strong evidence supports this recommendation."
+  },
+  {
+    "scenario": "Visit 2, prev no change",
+    "visit_number": 2,
+    "previous_outcome": "No Change",
+    "previous_drug": "None",
+    "true_drug": "Metoprolol",
+    "predicted_drug": "Metoprolol",
+    "correct": true,
+    "confidence": 1.0,
+    "top_shap": [
+      [
+        "Primary_Condition_Hypertension",
+        0.3404
+      ],
+      [
+        "CYP2D6_Phenotype_encoded",
+        0.1175
+      ],
+      [
+        "Previous_Outcome_encoded",
+        0.1006
+      ],
+      [
+        "Primary_Condition_Hyperlipidemia",
+        0.059
+      ],
+      [
+        "Primary_Condition_Colorectal Cancer",
+        0.0496
+      ]
+    ],
+    "explanation": "[Visit 2] Previous treatment showed no response \u2014 dose escalated to improve efficacy.\nRecommended: <strong>Metoprolol</strong> \u2014 dose escalation is required for therapeutic effect (confidence: 100%)\nGenomic rationale: CYP2D6 Intermediate Metabolizer: reduced metabolism.\nVisit history supported this recommendation (feature: Previous_Outcome_encoded, SHAP=+0.101).\nHigh confidence \u2014 strong evidence supports this recommendation."
+  },
+  {
+    "scenario": "Visit 2, prev no change",
+    "visit_number": 2,
+    "previous_outcome": "No Change",
+    "previous_drug": "None",
+    "true_drug": "Abacavir + Lamivudine",
+    "predicted_drug": "Abacavir + Lamivudine",
+    "correct": true,
+    "confidence": 0.809,
+    "top_shap": [
+      [
+        "Primary_Condition_HIV/AIDS",
+        0.4102
+      ],
+      [
+        "ALT_U_L",
+        0.0473
+      ],
+      [
+        "BMI",
+        0.0354
+      ],
+      [
+        "Weight_kg",
+        0.0288
+      ],
+      [
+        "Primary_Condition_Hyperlipidemia",
+        0.0244
+      ]
+    ],
+    "explanation": "[Visit 2] Previous treatment showed no response \u2014 dose escalated to improve efficacy.\nRecommended: <strong>Abacavir + Lamivudine</strong> \u2014 standard dosing is appropriate (confidence: 81%)\nModerate confidence \u2014 clinical review advised."
+  },
+  {
+    "scenario": "Visit 2, prev ADR",
+    "visit_number": 2,
+    "previous_outcome": "Adverse Reaction",
+    "previous_drug": "None",
+    "true_drug": "Amlodipine",
+    "predicted_drug": "Amlodipine",
+    "correct": true,
+    "confidence": 0.991,
+    "top_shap": [
+      [
+        "Primary_Condition_Hypertension",
+        0.3227
+      ],
+      [
+        "Previous_Outcome_encoded",
+        0.2342
+      ],
+      [
+        "Primary_Condition_Hyperlipidemia",
+        0.0581
+      ],
+      [
+        "Primary_Condition_Colorectal Cancer",
+        0.049
+      ],
+      [
+        "Primary_Condition_HIV/AIDS",
+        0.0408
+      ]
+    ],
+    "explanation": "[Visit 2] Previous drug caused an adverse reaction \u2014 switching to alternative drug class.\nRecommended: <strong>Amlodipine</strong> \u2014 standard dosing is appropriate (confidence: 99%)\nVisit history supported this recommendation (feature: Previous_Outcome_encoded, SHAP=+0.234).\nHigh confidence \u2014 strong evidence supports this recommendation."
+  },
+  {
+    "scenario": "Visit 2, prev ADR",
+    "visit_number": 2,
+    "previous_outcome": "Adverse Reaction",
+    "previous_drug": "None",
+    "true_drug": "Metformin",
+    "predicted_drug": "Metformin",
+    "correct": true,
+    "confidence": 0.981,
+    "top_shap": [
+      [
+        "CYP2C9_Phenotype_encoded",
+        0.2025
+      ],
+      [
+        "Primary_Condition_Type 2 Diabetes",
+        0.173
+      ],
+      [
+        "Previous_Drug_Metformin + Glipizide",
+        0.1068
+      ],
+      [
+        "Previous_Drug_Metformin",
+        0.0733
+      ],
+      [
+        "Primary_Condition_Colorectal Cancer",
+        0.0706
+      ]
+    ],
+    "explanation": "[Visit 2] Previous drug caused an adverse reaction \u2014 switching to alternative drug class.\nRecommended: <strong>Metformin</strong> \u2014 standard dosing is appropriate (confidence: 98%)\nGenomic rationale: CYP2C9 Poor Metabolizer: significantly reduced drug metabolism.\n\u26a0\ufe0f Alert: Avoid Glipizide \u00c2\u0096 CYP2C9 reduced function\nHigh confidence \u2014 strong evidence supports this recommendation."
+  },
+  {
+    "scenario": "Visit 3",
+    "visit_number": 3,
+    "previous_outcome": "Improved",
+    "previous_drug": "None",
+    "true_drug": "Irinotecan",
+    "predicted_drug": "Irinotecan",
+    "correct": true,
+    "confidence": 0.67,
+    "top_shap": [
+      [
+        "Primary_Condition_Colorectal Cancer",
+        0.2016
+      ],
+      [
+        "Visit_Number",
+        0.0424
+      ],
+      [
+        "Previous_Outcome_encoded",
+        0.038
+      ],
+      [
+        "Primary_Condition_Hyperlipidemia",
+        0.0338
+      ],
+      [
+        "Primary_Condition_HIV/AIDS",
+        0.0232
+      ]
+    ],
+    "explanation": "[Visit 3] Previous treatment was Improved \u2014 continuing current regimen.\nRecommended: <strong>Irinotecan</strong> \u2014 standard dosing is appropriate (confidence: 67%)\nVisit history supported this recommendation (feature: Previous_Outcome_encoded, SHAP=+0.038).\nLower confidence \u2014 additional judgment required."
+  }
+]
