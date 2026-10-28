@@ -24,41 +24,111 @@ import json
 import warnings
 warnings.filterwarnings("ignore")
 
+
 # ─────────────────────────────────────────────
 # STEP 1: LOAD
 # ─────────────────────────────────────────────
+from pathlib import Path
+
 print("=" * 60)
 print("STEP 1: Loading models and data")
 print("=" * 60)
 
-model_v1   = joblib.load("rf_v1.pkl")
-model_full = joblib.load("rf_full.pkl")
+with open("feature_list_v1.json", encoding="utf-8") as f:
+    FEATURES_V1 = json.load(f)
 
-with open("feature_list_v1.json")   as f: FEATURES_V1   = json.load(f)
-with open("feature_list_full.json") as f: FEATURES_FULL = json.load(f)
-with open("drug_label_map.json")    as f: drug_map       = json.load(f)
+with open("feature_list_full.json", encoding="utf-8") as f:
+    FEATURES_FULL = json.load(f)
+
+with open("drug_label_map.json", encoding="utf-8") as f:
+    drug_map = json.load(f)
 
 drug_classes = [drug_map[str(i)] for i in range(len(drug_map))]
 
-df_v1   = pd.read_csv("cleaned_visit1.csv",  encoding="latin-1")
-df_full = pd.read_csv("cleaned_full.csv",    encoding="latin-1")
 
-df_v1[FEATURES_V1]     = df_v1[FEATURES_V1].fillna(0)
+def load_compatible_model(candidates, feature_list, label):
+    """Load a model only when its input dimension matches the feature list."""
+    for filename in candidates:
+        path = Path(filename)
+
+        if not path.exists():
+            continue
+
+        candidate = joblib.load(path)
+        expected = getattr(candidate, "n_features_in_", None)
+
+        if expected == len(feature_list):
+            print(
+                f"{label}: loaded {filename} "
+                f"({expected} features)"
+            )
+            return candidate
+
+        print(
+            f"Skipping {filename}: expects {expected} features; "
+            f"current feature list has {len(feature_list)}"
+        )
+
+    raise RuntimeError(
+        f"No compatible {label} model was found. "
+        "Run phase3_ml_model.py to generate models matching the "
+        "current feature lists. Existing models have not been modified."
+    )
+
+
+model_v1 = load_compatible_model(
+    ["rf_v1_tuned.joblib", "rf_v1.pkl"],
+    FEATURES_V1,
+    "V1 model",
+)
+
+model_full = load_compatible_model(
+    ["rf_full_tuned.joblib", "rf_full.pkl"],
+    FEATURES_FULL,
+    "Full model",
+)
+
+df_v1 = pd.read_csv("cleaned_visit1.csv", encoding="latin-1")
+df_full = pd.read_csv("cleaned_full.csv", encoding="latin-1")
+
+missing_v1 = [f for f in FEATURES_V1 if f not in df_v1.columns]
+missing_full = [f for f in FEATURES_FULL if f not in df_full.columns]
+
+if missing_v1:
+    raise ValueError(f"Missing V1 dataset features: {missing_v1}")
+
+if missing_full:
+    raise ValueError(f"Missing full dataset features: {missing_full}")
+
+df_v1[FEATURES_V1] = df_v1[FEATURES_V1].fillna(0)
 df_full[FEATURES_FULL] = df_full[FEATURES_FULL].fillna(0)
 
-X_v1   = df_v1[FEATURES_V1].values
+X_v1 = df_v1[FEATURES_V1].values
 X_full = df_full[FEATURES_FULL].values
 
 print(f"V1 model:   {type(model_v1).__name__}, {len(FEATURES_V1)} features")
 print(f"Full model: {type(model_full).__name__}, {len(FEATURES_FULL)} features")
 
-LONG_FEATS = ["Previous_Outcome_encoded","Previous_ADR_flag",
-              "Dose_Escalated_flag","Is_Return_Visit"]
-GENOMIC_FEATS = ["CYP2C9_Phenotype_encoded","CYP2D6_Phenotype_encoded",
-                 "VKORC1_Genotype_encoded","VKORC1_Sensitivity_encoded",
-                 "SLCO1B1_Function_encoded","CYP2C19_Phenotype_encoded",
-                 "TPMT_Activity_encoded","DPYD_Function_encoded",
-                 "HLA_B5701_encoded","CYP2C9_AlleleScore"]
+LONG_FEATS = [
+    "Previous_Outcome_encoded",
+    "Previous_ADR_flag",
+    "Dose_Escalated_flag",
+    "Is_Return_Visit",
+]
+
+GENOMIC_FEATS = [
+    "CYP2C9_Phenotype_encoded",
+    "CYP2D6_Phenotype_encoded",
+    "VKORC1_Genotype_encoded",
+    "VKORC1_Sensitivity_encoded",
+    "SLCO1B1_Function_encoded",
+    "CYP2C19_Phenotype_encoded",
+    "TPMT_Activity_encoded",
+    "DPYD_Function_encoded",
+    "HLA_B5701_encoded",
+    "CYP2C9_AlleleScore",
+]
+
 
 # ─────────────────────────────────────────────
 # STEP 2: GLOBAL SHAP — BOTH MODELS
@@ -264,6 +334,9 @@ for pat_idx, pid in enumerate(showcase_patients):
             continue
         ax = axes4[pat_idx][col_idx]
         patient_X = vrow[FEATURES_FULL].fillna(0).values
+        print("Patient input shape:", patient_X.shape)
+        print("Model expects features:", model_full.n_features_in_)
+        print("Patient input type:", type(patient_X))
         pred_label = model_full.predict(patient_X)[0]
         drug_name = drug_map.get(str(pred_label), "Unknown")
 
